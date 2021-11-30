@@ -1,0 +1,2 @@
+##selam arkadaslar
+print("asasa")
