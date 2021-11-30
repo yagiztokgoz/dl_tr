@@ -1,2 +1,0 @@
-##selam arkadaslar
-print("asasa")
